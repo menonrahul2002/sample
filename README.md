@@ -1,4 +1,4 @@
 # sample
 A sample repository
 <br>
-Author- Rahul B Menon
+Author- Rahul B Menon (RBM)
